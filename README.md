@@ -35,7 +35,7 @@ With the included .bps patches, you'll be able to distribute event items introdu
 ## Emulator Necessities
 
 - Patched Distribution ROMs
-- Emulator of choice that supports the wireless adapter (We cannot guarantee compatibility for your emualtor or choice)
+- Emulator of choice that supports the wireless adapter (We cannot guarantee compatibility for your emulator or choice)
 - Dump personal copy of Pokémon FireRed, LeafGreen, or Emerald onto your computer
 ## FAQ
 
